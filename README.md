@@ -1,9 +1,9 @@
-### spacing out
+### My little corner
 
 https://keiw.xyz/
 
 
-### some online crafts
+### Some online crafts
 
 - https://jlpt-keiz.vercel.app
 - https://wkei.github.io/the-tab-of-words/ (remaking)
