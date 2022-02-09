@@ -1,4 +1,10 @@
-### Spacing out
+### spacing out
 
-http://keiw.xyz/
+https://keiw.xyz/
 
+
+### some online craft
+
+- https://jlpt-keiz.vercel.app
+- https://wkei.github.io/the-tab-of-words/ (remaking)
+- https://sketch.js.org/
