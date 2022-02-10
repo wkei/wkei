@@ -3,9 +3,11 @@
 https://keiw.xyz/
 
 
-### Some online crafts
+### WIP
 
 - https://jlpt-keiz.vercel.app
-- https://wkei.github.io/the-tab-of-words/ (remaking)
+- https://wkei.github.io/the-tab-of-words/
+
+### Old crafts
 - https://sketch.js.org/
 - https://readcolor.js.org/
